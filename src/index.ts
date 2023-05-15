@@ -61,7 +61,7 @@ app.delete("/todos/:id", async (req, res) => {
 app.get("/", async (req, res) => {
   res.send(
     `
-  <h1>Todo REST API test</h1>
+  <h1>Todo REST API test3</h1>
   <h2>Available Routes</h2>
   <pre>
     GET, POST /todos
